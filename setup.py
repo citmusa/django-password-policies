@@ -14,7 +14,7 @@ and a mechanism to force password changes.
 """,
     author='Tarak Blah',
     author_email='halbkarat@gmail.com',
-    url='https://github.com/tarak/django-password-policies',
+    url='https://github.com/citmusa/django-password-policies',
     include_package_data=True,
     packages=find_packages(),
     zip_safe=False,
